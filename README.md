@@ -14,7 +14,7 @@ A friendly yet **powerful Discord bot error-handler** that keeps your server cal
 Advanced ZErrorHandler gives you **one clean control panel** to catch, log, and style every bot error—no code edits required. Built for public, multi-guild bots, it ensures each server gets its own independent configuration and statistics.
 
 ---
-
+## NOTICE: Written for discord.py 2.6.x 
 ## ✨ Key Features
 
 * **Multi-Guild Ready** – Each server gets independent control and stats.
